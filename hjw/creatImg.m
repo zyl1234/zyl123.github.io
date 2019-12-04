@@ -41,6 +41,7 @@ for i=1:20000:size(davis,1)
 %         error_event=error_event0(error_index,:);
         
     end
+	%zlf
 %     imshow(EventImage);
     
 end
